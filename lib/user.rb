@@ -44,5 +44,3 @@ class User
         self.all.find{ |user| user.id == id }
     end
 end
-
-\\wsl.localhost\Ubuntu\home\jnettownsend\world_countries\lib\user.rb
